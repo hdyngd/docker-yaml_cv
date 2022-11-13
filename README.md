@@ -17,9 +17,9 @@ Installation
 ===
 
 ```bash
-$ git clone https://github.com/ikasam/docker-yaml_cv.git
+$ git clone https://github.com/hdyngd/docker-yaml_cv.git
 $ cd docker-yaml_cv
-$ git clone https://github.com/kaityo256/yaml_cv.git
+$ git clone https://github.com/hdyngd/yaml_cv.git
 ```
 
 Usage
